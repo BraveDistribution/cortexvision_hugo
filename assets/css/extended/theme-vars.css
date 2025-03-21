@@ -1,0 +1,8 @@
+:root {
+    --main-width: 1020px;
+    --primary: rgb(144,52,76);
+}
+
+.dark {
+#    --primary: rgb(144,52,76);
+}
