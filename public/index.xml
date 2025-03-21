@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CortexVision blog</title><link>https://blog.cortexvision.eu/</link><description>Recent content on CortexVision blog</description><generator>Hugo -- 0.139.0</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 07:39:03 +0100</lastBuildDate><atom:link href="https://blog.cortexvision.eu/index.xml" rel="self" type="application/rss+xml"/><item><title>Abigail update</title><link>https://blog.cortexvision.eu/posts/abigail_first/</link><pubDate>Fri, 21 Mar 2025 07:39:03 +0100</pubDate><guid>https://blog.cortexvision.eu/posts/abigail_first/</guid><description>&lt;h1 id="abigail-research-project">Abigail Research Project&lt;/h1></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CortexVision blog</title>
+    <link>https://blog.cortexvision.eu/</link>
+    <description>Recent content on CortexVision blog</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2025 07:39:03 +0100</lastBuildDate>
+    <atom:link href="https://blog.cortexvision.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abigail update</title>
+      <link>https://blog.cortexvision.eu/posts/abigail_first/</link>
+      <pubDate>Fri, 21 Mar 2025 07:39:03 +0100</pubDate>
+      <guid>https://blog.cortexvision.eu/posts/abigail_first/</guid>
+      <description>&lt;h1 id=&#34;abigail-research-project&#34;&gt;Abigail Research Project&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
