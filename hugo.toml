@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.cortexvision.eu'
 languageCode = 'en-us'
 title = 'CortexVision blog'
 theme = "PaperMod"
