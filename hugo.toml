@@ -1,4 +1,6 @@
-baseURL = 'https://blog.cortexvision.eu'
 languageCode = 'en-us'
 title = 'CortexVision blog'
 theme = "PaperMod"
+baseURL = "https://blog.cortexvision.eu/"
+relativeURLs = true
+canonifyURLs = false
